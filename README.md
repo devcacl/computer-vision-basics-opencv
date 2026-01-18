@@ -38,6 +38,8 @@ Number of contours detected
 
 Number of faces detected
 
-🧑‍💻 Author
+#🧑‍💻 Author
+
 Camilo Coronado
+
 software developer, Computer Vision & Machine Learning 
